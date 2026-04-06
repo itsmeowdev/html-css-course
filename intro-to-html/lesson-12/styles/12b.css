@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+.items-left {
+    background-color: lightblue;
+    width: 50px;
+}
+
+.items-middle {
+    background-color: lightpink;
+    flex: 1;
+}
+
+.items-right {
+    background-color: lightblue;
+    width: 75px;
+}
